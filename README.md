@@ -1,6 +1,6 @@
 -Hello, It's CodieGames
 
--A Indian-based Game devloping Company
+-A India-based Game devloping Company
 
 <!---
 codiegames/codiegames is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
